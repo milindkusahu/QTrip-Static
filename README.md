@@ -1,3 +1,5 @@
+<img src="https://github.com/milindkusahu/QTrip-Static/blob/main/QTrip%20Project%20Preview.png?raw=true"></img>
+
 # QTrip Static
 
 ## Overview
